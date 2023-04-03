@@ -1,2 +1,3 @@
 # Sum-of-primes
-recursive algorithm for displaying number given as sum of prime numbers \ 
+Recursive algorithm for displaying number given as sum of prime numbers - algorithm prints all possible sums \ 
+firstComponent is the first addend required in any sum generated.
